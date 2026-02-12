@@ -1,7 +1,7 @@
 💼 About Me:
 
 🔨 Currently Building
-Full-stack applications with the MERN stack and Next.js, focusing on clean architecture, secure authentication, interactive dashboards, and scalable CRUD workflows. I write maintainable, production-ready code that solves real-world problems.
+Full-Stack Developer Intern at SparrowBytes FinTech Solutions, developing full-stack fintech products using the MERN stack and Next.js, delivering solutions that meet client requirements, and contributing to production-ready systems in an agile environment.
 
 🚀 Open to Opportunities
 Looking for full-time software developer roles where I can build scalable applications, collaborate with experienced teams, and contribute to meaningful projects that impact users.
