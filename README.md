@@ -1,30 +1,30 @@
 💼 About Me:
 
-💼 Current Role
-Full-Stack Developer Intern at SparrowBytes FinTech Solutions, developing full-stack fintech products using the MERN stack and Next.js, delivering solutions that meet client requirements, and contributing to production-ready systems in an agile environment.
+💼 Current Role:
+ Full-Stack Developer Intern at SparrowBytes FinTech Solutions, developing full-stack fintech products using the MERN stack and Next.js, delivering solutions that meet client requirements, and contributing to production-ready systems in an agile environment.
 
-🔨 Currently Building
-Full-stack applications with the MERN stack and Next.js, focusing on clean architecture, secure authentication, interactive dashboards, and scalable CRUD workflows. I write maintainable, production-ready code that solves real-world problems.
+🔨 Currently Building:
+ Full-stack applications with the MERN stack and Next.js, focusing on clean architecture, secure authentication, interactive dashboards, and scalable CRUD workflows. I write maintainable, production-ready code that solves real-world problems.
 
 🚀 Open to Opportunities
 Seeking full-time software developer roles where I can build scalable applications, collaborate with experienced teams, and contribute to meaningful projects that impact users.
 
-👨‍💻 Continuously Improving
-Backend scalability and performance optimization, clean architecture and design patterns, advanced Node.js and Express.js techniques, MongoDB query optimization and indexing, and modern frontend development with Next.js and TypeScript.
+👨‍💻 Continuously Improving:
+ Backend scalability and performance optimization, clean architecture and design patterns, advanced Node.js and Express.js techniques, MongoDB query optimization and indexing, and modern frontend development with Next.js and TypeScript.
 
-🎯 Technical Stack & Skills
-Core: MongoDB, Express.js, React.js, Node.js, Next.js, TypeScript
+🎯 Technical Stack & Skills: 
+ Core: MongoDB, Express.js, React.js, Node.js, Next.js, TypeScript
 Expertise: RESTful APIs, JWT authentication, state management, responsive UI design, database optimization, Git/GitHub
 Tools: Tailwind CSS, Postman, Vercel, Netlify
 
-💬 Ask Me About
-MERN Stack development, REST APIs, JWT authentication, React & Next.js with TypeScript, MongoDB optimization, fintech application development, or debugging strategies.
+💬 Ask Me About: 
+ MERN Stack development, REST APIs, JWT authentication, React & Next.js with TypeScript, MongoDB optimization, fintech application development, or debugging strategies.
 
-⚡ My Approach
-I learn by building real projects and debugging deeply. I focus on clean, readable code, continuous refactoring, and understanding the "why" behind solutions. Every iteration is an opportunity to improve code quality.
+⚡ My Approach: 
+ I learn by building real projects and debugging deeply. I focus on clean, readable code, continuous refactoring, and understanding the "why" behind solutions. Every iteration is an opportunity to improve code quality.
 
-🎯 What Drives Me
-I'm passionate about solving problems through code—whether it's building intuitive UIs with Next.js, optimizing backend performance, or architecting scalable systems. I'm driven by continuous learning and creating software that makes a real impact.
+🎯 What Drives Me: 
+ I'm passionate about solving problems through code—whether it's building intuitive UIs with Next.js, optimizing backend performance, or architecting scalable systems. I'm driven by continuous learning and creating software that makes a real impact.
 
 ## 🌐 Socials:
 [[Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhay9903) [[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abhaypratap006)[[email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhaypratap94310@gmail.com) 
