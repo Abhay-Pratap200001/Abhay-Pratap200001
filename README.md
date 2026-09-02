@@ -1,30 +1,64 @@
-💼 About Me:
+👋🏻 Hi, I'm Abhay Pratap
+☁️ Cloud Engineer | AWS | DevOps | Infrastructure
 
-💼 Current Role:
- Full-Stack Developer Intern at SparrowBytes FinTech Solutions, developing full-stack fintech products using the MERN stack and Next.js, delivering solutions that meet client requirements, and contributing to production-ready systems in an agile environment.
+I'm an aspiring Cloud Engineer focused on AWS, Cloud Infrastructure, DevOps, automation, and deployment technologies.
 
-🔨 Currently Building:
- Full-stack applications with the MERN stack and Next.js, focusing on clean architecture, secure authentication, interactive dashboards, and scalable CRUD workflows. I write maintainable, production-ready code that solves real-world problems.
+I’m building hands-on experience with AWS, Linux, Docker, Kubernetes, Terraform, CI/CD, Git, networking, monitoring, and Infrastructure as Code (IaC). I enjoy understanding how applications are deployed, connected, scaled, monitored, and managed in cloud environments.
 
-🚀 Open to Opportunities
-Seeking full-time software developer roles where I can build scalable applications, collaborate with experienced teams, and contribute to meaningful projects that impact users.
+☁️ Cloud & DevOps Focus
+☁️ AWS: EC2, S3, IAM, VPC, EBS, RDS, ELB, Auto Scaling, Lambda, CloudWatch, Route 53, CloudFront
+🐧 Linux: Linux fundamentals, processes, permissions, file systems, networking, shell commands
+🐳 Docker: Containers, images, Dockerfiles, Docker Compose, containerized applications
+☸️ Kubernetes: Pods, Deployments, Services, ConfigMaps, Secrets, scaling, container orchestration
+🏗️ Terraform: Infrastructure as Code, providers, resources, variables, state management, modules
+🔄 CI/CD: Build, test, deployment automation and pipeline fundamentals
+🌐 Networking: VPC, subnets, security groups, routing, ports, DNS, load balancing
+📊 Monitoring: CloudWatch and application/infrastructure monitoring fundamentals
+🔐 Cloud Security: IAM, least-privilege access, security groups and secure infrastructure practices
+🔧 Version Control: Git & GitHub
 
-👨‍💻 Continuously Improving:
- Backend scalability and performance optimization, clean architecture and design patterns, advanced Node.js and Express.js techniques, MongoDB query optimization and indexing, and modern frontend development with Next.js and TypeScript.
+🚀 Currently Learning & Building
+I'm currently focusing on practical Cloud and DevOps projects involving:
+AWS cloud infrastructure
+Linux server administration
+Dockerizing applications
+Deploying applications on AWS
+Terraform-based infrastructure
+Kubernetes deployments
+CI/CD automation
+AWS networking and security
+Monitoring and logging
+High availability and scalability
+Infrastructure automation
 
-🎯 Technical Stack & Skills: 
- Core: MongoDB, Express.js, React.js, Node.js, Next.js, TypeScript
-Expertise: RESTful APIs, JWT authentication, state management, responsive UI design, database optimization, Git/GitHub
-Tools: Tailwind CSS, Postman, Vercel, Netlify
+My goal is to move from manually managing infrastructure toward automated, repeatable, and scalable cloud environments.
 
-💬 Ask Me About: 
- MERN Stack development, REST APIs, JWT authentication, React & Next.js with TypeScript, MongoDB optimization, fintech application development, or debugging strategies.
+💼 Development Background
+I also have a background in Full-Stack Development, which helps me understand the application side of cloud infrastructure.
 
-⚡ My Approach: 
- I learn by building real projects and debugging deeply. I focus on clean, readable code, continuous refactoring, and understanding the "why" behind solutions. Every iteration is an opportunity to improve code quality.
+I've worked with:
+JavaScript
+React.js
+Next.js
+Node.js
+Express.js
+MongoDB
+REST APIs
+TypeScript
 
-🎯 What Drives Me: 
- I'm passionate about solving problems through code—whether it's building intuitive UIs with Next.js, optimizing backend performance, or architecting scalable systems. I'm driven by continuous learning and creating software that makes a real impact.
+This allows me to understand how applications are built and how they interact with servers, databases, containers, networks, and cloud infrastructure.
+
+🎯 Career Focus
+I'm currently looking for opportunities in:
+☁️ Cloud Engineering
+🔧 AWS Cloud Engineering
+🚀 DevOps Engineering
+🏗️ Infrastructure Engineering
+⚙️ Cloud Infrastructure
+🔄 CI/CD & Automation
+🐳 Containerization & Kubernetes
+
+I'm continuously learning through hands-on projects, labs, troubleshooting, and real-world cloud scenarios.
 
 ## 🌐 Socials:
 [[Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhay9903) [[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abhaypratap006)[[email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhaypratap94310@gmail.com) 
