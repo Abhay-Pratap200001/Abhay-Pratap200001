@@ -1,89 +1,159 @@
 # 👋🏻 Hi, I'm Abhay Pratap
-### 🧪 Software Test Engineer | Quality Assurance | API Testing
+### 💻 MERN Stack Developer | Full Stack Web Developer | Next.js Developer
 
-I'm focused on **Software Testing, Quality Assurance, Functional Testing, Regression Testing, and API Testing**. I enjoy understanding application workflows, identifying defects, validating functionality, and helping deliver reliable, high-quality software.
+I'm a **Web Developer** passionate about building responsive, scalable, and user-friendly web applications. I work with modern technologies including **React.js, Next.js, TypeScript, Node.js, Express.js, and MongoDB** to develop full-stack applications and dynamic user interfaces.
 
-I'm building practical testing experience through projects involving test case design, test execution, API validation with Postman, database testing with SQL, and defect reporting. My development and cloud background also helps me understand application architecture, backend workflows, databases, and deployment environments.
+I have internship experience working on logistics platforms, cloud-based inventory management applications, reusable UI components, and REST API integrations. I enjoy solving real-world problems, writing clean and maintainable code, optimizing application performance, and continuously learning new technologies.
 
-## 🧪 Software Testing & QA Skills
+## 🚀 Technical Skills
 
-- **Functional Testing:** Validating application features against expected requirements
-- **Regression Testing:** Checking that existing functionality works after changes
-- **Smoke & Sanity Testing:** Verifying build stability and targeted functionality
-- **Test Case Design:** Writing test scenarios, test cases, positive and negative test cases
-- **Test Techniques:** Boundary Value Analysis and Equivalence Partitioning
-- **API Testing:** Postman, REST APIs, HTTP status codes, JSON response validation, CRUD operations
-- **Database Testing:** SQL, MySQL, PostgreSQL, MongoDB, data validation
-- **Defect Management:** Bug reporting, defect lifecycle, Jira fundamentals
-- **Testing Fundamentals:** SDLC, STLC, test execution, retesting, defect verification
+### 🎨 Frontend Development
+- HTML5, CSS3, JavaScript (ES6+), TypeScript
+- React.js, Next.js
+- Tailwind CSS
+- Redux Toolkit
+- Responsive Web Design
+- Reusable UI Components
+- Framer Motion
+
+### ⚙️ Backend Development
+- Node.js
+- Express.js
+- REST API Development & Integration
+- JWT Authentication & Authorization
+- CRUD Operations
+- API Testing with Postman
+
+### 🗄️ Databases
+- MongoDB
+- MySQL
+- PostgreSQL
+- Redis
+- DynamoDB
+- Amazon RDS
 
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,git,github,js,py,mysql,mongodb,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,mongodb,mysql,postgres,redis&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
+</p>
+
+## 💼 Internship Experience
+
+### 1. SparrowBytes FinTech Solutions
+**Software Developer Intern**
+
+- Developed and optimized key modules of a logistics web application using Next.js and TypeScript.
+- Built 10+ reusable and scalable UI components to improve development efficiency.
+- Worked on maintaining and updating a jewellery application.
+- Integrated REST APIs and handled asynchronous data for smooth application functionality.
+- Improved frontend performance by optimizing rendering and page responsiveness.
+- Collaborated with team members using Git and GitHub in an Agile workflow.
+
+**Technologies:** Next.js, TypeScript, Git, GitHub, Postman.
+
+### 2. Datapel Systems
+**Software Developer Intern**
+
+- Developed and maintained responsive web interfaces for cloud-based inventory tracking and warehouse management applications.
+- Integrated frontend components with REST APIs to retrieve and display inventory, stock availability, and order information.
+- Built interactive, searchable, and filterable data tables for product catalogs and warehouse operations.
+- Improved UI responsiveness, form validation, and cross-browser compatibility.
+- Collaborated with senior developers and QA teams to fix bugs, maintain components, and support application updates.
+
+**Technologies:** HTML, CSS, JavaScript, REST APIs, Git, GitHub.
 
 ## ☁️ Cloud & DevOps Knowledge
 
-My cloud and development knowledge helps me understand how applications run and how to investigate issues across environments.
+I also have practical experience with cloud deployment and containerization, helping me understand how web applications are deployed and maintained in cloud environments.
 
-- **AWS:** EC2, S3, IAM, VPC, RDS, CloudWatch
-- **Containers:** Docker and Kubernetes fundamentals
-- **Operating Systems:** Linux and Ubuntu commands, logs, and troubleshooting
-- **Infrastructure:** Terraform and Infrastructure as Code fundamentals
-- **Web Technologies:** React.js, Next.js, Node.js, Express.js, REST APIs
+- **AWS:** EC2, S3, Lambda, IAM, VPC, RDS, DynamoDB, Amplify, CloudWatch
+- **Containers:** Docker, Docker Compose, Kubernetes fundamentals
+- **Infrastructure:** Terraform fundamentals
+- **Deployment:** AWS EC2, AWS Amplify
+- **Web Server:** Nginx
+- **Operating Systems:** Linux, Ubuntu
+- **Version Control:** Git and GitHub
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,nginx&theme=dark" />
 </p>
 
-## 🚀 Testing Projects
+## 🚀 Featured Projects
 
-### 1. E-Commerce Application Testing
-- Designed and executed test cases for authentication, product search, filtering, cart functionality, and admin workflows.
-- Tested REST API endpoints using Postman.
-- Validated HTTP status codes, JSON responses, CRUD operations, and authorization.
-- Practiced regression testing and documenting defects.
+### 1. 🏡 Nestora Real Estate — Full Stack MERN Application
 
-### 2. Real Estate Application Testing
-- Tested property listing workflows and API functionality.
-- Validated CRUD operations, input validation, and negative scenarios.
-- Checked authentication and authorization behavior.
-- Practiced regression testing and responsive UI validation.
+A full-stack real estate application with property management and user authentication functionality.
 
-### 3. Containerized Test Environment — AWS & Docker
-- Set up an Ubuntu environment on AWS EC2 and worked with Docker.
-- Used Linux commands and logs for troubleshooting.
-- Explored Nginx reverse proxy configuration and resource monitoring.
+- Implemented secure authentication using JWT, bcrypt, and Firebase Google OAuth.
+- Developed complete CRUD functionality for property listings.
+- Built advanced search and filtering functionality for rental and sale properties.
+- Designed a responsive UI with categorized property listings.
+- Integrated Cloudinary for optimized image handling and storage.
+- Used React, Redux Toolkit, and Express.js to develop a scalable application.
 
-*Project descriptions reflect hands-on work; see the individual repositories for implementation details and testing evidence.*
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Redux Toolkit, JWT, Firebase, Cloudinary.
+
+- 🌐 [Live Demo](https://mern-real-estate-ax8b.onrender.com)
+- 💻 [GitHub Repository](https://github.com/Abhay-Pratap200001/Real-state-clone)
+
+### 2. 🛒 E-Commerce Web Application — Full Stack MERN Application
+
+A full-stack e-commerce application with shopping and administration functionality.
+
+- Implemented role-based authentication and authorization using JWT and bcrypt.
+- Developed product management functionality with filtering, sorting, and search.
+- Created an admin dashboard for product management and sales analytics.
+- Used Redis caching to improve application response times.
+- Integrated Cloudinary for product image uploads and optimization.
+- Built responsive interfaces using React and Zustand for state management.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Zustand, JWT, Redis, Cloudinary, Axios.
+
+- 🌐 [Live Demo](https://e-commerce-aj2h.onrender.com)
+- 💻 [GitHub Repository](https://github.com/Abhay-Pratap200001/E-Commerce)
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+Makhanlal Chaturvedi University  
+2022 – 2025 | CGPA: 7.5/10
 
 ## 📚 Currently Improving
 
-- Writing clearer and more comprehensive test cases
-- API testing and negative test scenarios
-- SQL queries for database validation
-- Jira-based defect reporting
-- Test planning, execution, retesting, and regression testing
-- Understanding application logs and troubleshooting
+- Advanced React.js and Next.js concepts
+- Backend development and REST API architecture
+- Database design and query optimization
+- TypeScript and scalable application architecture
+- AWS cloud services and deployment
+- Docker, CI/CD, and DevOps fundamentals
+- Writing clean, reusable, and maintainable code
 
 ## 🎯 Career Focus
 
-I'm looking for opportunities in:
+I'm actively looking for opportunities as a:
 
-- Software Testing
-- Quality Assurance (QA)
-- Functional & Regression Testing
-- API Testing
-- Software Test Engineering
+- MERN Stack Developer
+- Full Stack Developer
+- React.js Developer
+- Next.js Developer
+- Frontend Developer
+- Backend Developer
+- Junior Software Engineer
 
-I'm continuously improving through hands-on projects, practical testing scenarios, and learning software quality assurance practices.
+I'm eager to contribute to real-world projects, collaborate with development teams, learn from experienced professionals, and grow as a software developer.
 
 ## 🌐 Connect With Me
 
-- **LinkedIn:** [Abhay Pratap](https://www.linkedin.com/in/abhaypratap006)
+- **LinkedIn:** [Abhay Pratap](https://www.linkedin.com/in/abhaypratap006/)
+- **GitHub:** [Abhay-Pratap200001](https://github.com/Abhay-Pratap200001)
 - **Instagram:** [@_abhay9903](https://instagram.com/_abhay9903)
-- **Email:** [abhaypratap94310@gmail.com](mailto:abhaypratap94310@gmail.com)
+- **Email:** [itsabhaypratap006@gmail.com](mailto:itsabhaypratap006@gmail.com)
+- **Location:** Lucknow, Uttar Pradesh, India
 
 ## 📊 GitHub Stats
 
@@ -97,4 +167,8 @@ I'm continuously improving through hands-on projects, practical testing scenario
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Abhay-Pratap200001&icon=0&color=0" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! Let's build something amazing together. 🚀</b>
 </p>
